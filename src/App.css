@@ -93,7 +93,8 @@ nav a:hover {
 }
 
 #upvotes-section button, p {
-  display: inline-block;
+ 
+  display: inline-flexbox;
   margin-right: 16px;
 }
 
